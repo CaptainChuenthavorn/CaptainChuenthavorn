@@ -10,6 +10,8 @@ I'm codding with:
 learning now:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![GitHub Stats](https://github-readme-stats.vercel.api?username=CaptainChuenthavorn&theme=radical)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
 <!--
 **CaptainChuenthavorn/CaptainChuenthavorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
