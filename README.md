@@ -9,7 +9,7 @@ I'm codding with:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 learning now:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![GitHub Stats](https://github-readme-stats.vercel.api?username=CaptainChuenthavorn&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaptainChuenthavorn&theme=radical)
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
 <!--
