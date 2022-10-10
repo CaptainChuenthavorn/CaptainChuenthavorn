@@ -14,7 +14,7 @@ learning now:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-[![SimplyProgger's Github Stats](https://enigmatic-harbor-42642.herokuapp.com/?name=SimplyProgger)](https://enigmatic-harbor-42642.herokuapp.com/?name=SimplyProgger)
+[![SimplyProgger's Github Stats](https://enigmatic-harbor-42642.herokuapp.com/?name=CaptainChuenthavorn)](https://enigmatic-harbor-42642.herokuapp.com/?name=SimplyProgger)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaptainChuenthavorn&theme=radical)
