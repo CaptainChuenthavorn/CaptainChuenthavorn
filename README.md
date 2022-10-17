@@ -22,4 +22,4 @@ learning now:
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
-
+![](https://raw.githubusercontent.com/CaptainChuenthavorn/Not-this-one/master/CAPTAIN%20CV.jpg?raw=true)
