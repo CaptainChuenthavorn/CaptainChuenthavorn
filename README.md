@@ -4,6 +4,7 @@
 <h3 align="left">Connect with me:</h3>   <br />
 - Email : captainchuenthavorn@gmail.com   <br />
 - Linkedin : https://www.linkedin.com/in/chakkapat-chuenthavorn-82ba3619b/    <br />
+- <a href="https://www.linkedin.com/in/chakkapat-chuenthavorn-82ba3619b/">Chakkapat Chuenthavorn</a>
 <p align="left">
 </p>
 
